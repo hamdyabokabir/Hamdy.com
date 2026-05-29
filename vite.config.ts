@@ -3,6 +3,8 @@ import react from '@vitejs/plugin-react';
 import path from 'path';
 import {defineConfig} from 'vite';
 
+base: '/Hamdy.com/'
+
 export default defineConfig(() => {
   return {
     plugins: [react(), tailwindcss()],
