@@ -12,7 +12,7 @@ export const personalInfo = {
   location: "مصر",
   experience: "5+ سنوات",
   age: "24",
-  profileImage: "/image/e5eeb1f2-c5ab-4c69-93c7-f530169f1ce0.jpg",
+  profileImage: "/Hamdy.com/assets/e5eeb1f2-c5ab-4c69-93c7-f530169f1ce0.jpg",
   story: "بدأت رحلتي في عالم البرمجة بشغف كبير للاكتشاف والتعلم الذاتي. تطورت مهاراتي من خلال العمل على مشاريع متنوعة وتحديات حقيقية، مما أدى إلى تأسيس وكالة HUNTER Digital Agency لتكون منصة انطلاق للحلول الرقمية المبتكرة.",
   achievements: [
     "🏆 مراكز أولى في مسابقات الابتكار",
@@ -129,14 +129,14 @@ export const testimonials: Testimonial[] = [
     role: "رئيس مجلس إدارة شركة العقارات",
     content: "خدمة ممتازة وسرعة في التنفيذ. الموقع ساعدنا كثيراً في الوصول لعملاء جدد.",
     rating: 5,
-    image: "/image/download.jpg"
+    image: "/Hamdy.com/assets/download.jpg"
   },
   {
     name: "سارة محمود",
     role: "مؤسسة متجر إلكتروني",
     content: "التصميم احترافي جداً ويهتم بأدق التفاصيل. أنصح بالتعامل مع حمدي.",
     rating: 5,
-    image: "/image/download.jpg"
+    image: "/Hamdy.com/assets/download.jpg"
   }
 ];
 
